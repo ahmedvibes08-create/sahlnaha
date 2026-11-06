@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793292064010,
+      "tag": "0000_sahhlnaha_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1793292118816,
+      "tag": "0001_sahhlnaha_seed",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1793545898518,
+      "tag": "0002_provider_signup_details",
+      "breakpoints": true
+    }
+  ]
+}
